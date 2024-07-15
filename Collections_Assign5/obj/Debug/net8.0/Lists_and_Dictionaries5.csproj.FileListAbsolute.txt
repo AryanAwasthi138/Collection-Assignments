@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Lists_and_Dictionaries5\Lists_and_Dictionaries5\bin\Debug\net8.0\Lists_and_Dictionaries5.exe
+C:\Users\hp\source\repos\Lists_and_Dictionaries5\Lists_and_Dictionaries5\bin\Debug\net8.0\Lists_and_Dictionaries5.deps.json
+C:\Users\hp\source\repos\Lists_and_Dictionaries5\Lists_and_Dictionaries5\bin\Debug\net8.0\Lists_and_Dictionaries5.runtimeconfig.json
+C:\Users\hp\source\repos\Lists_and_Dictionaries5\Lists_and_Dictionaries5\bin\Debug\net8.0\Lists_and_Dictionaries5.dll
+C:\Users\hp\source\repos\Lists_and_Dictionaries5\Lists_and_Dictionaries5\bin\Debug\net8.0\Lists_and_Dictionaries5.pdb
+C:\Users\hp\source\repos\Lists_and_Dictionaries5\Lists_and_Dictionaries5\obj\Debug\net8.0\Lists_and_Dictionaries5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Lists_and_Dictionaries5\Lists_and_Dictionaries5\obj\Debug\net8.0\Lists_and_Dictionaries5.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Lists_and_Dictionaries5\Lists_and_Dictionaries5\obj\Debug\net8.0\Lists_and_Dictionaries5.AssemblyInfo.cs
+C:\Users\hp\source\repos\Lists_and_Dictionaries5\Lists_and_Dictionaries5\obj\Debug\net8.0\Lists_and_Dictionaries5.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Lists_and_Dictionaries5\Lists_and_Dictionaries5\obj\Debug\net8.0\Lists_and_Dictionaries5.dll
+C:\Users\hp\source\repos\Lists_and_Dictionaries5\Lists_and_Dictionaries5\obj\Debug\net8.0\refint\Lists_and_Dictionaries5.dll
+C:\Users\hp\source\repos\Lists_and_Dictionaries5\Lists_and_Dictionaries5\obj\Debug\net8.0\Lists_and_Dictionaries5.pdb
+C:\Users\hp\source\repos\Lists_and_Dictionaries5\Lists_and_Dictionaries5\obj\Debug\net8.0\Lists_and_Dictionaries5.genruntimeconfig.cache
+C:\Users\hp\source\repos\Lists_and_Dictionaries5\Lists_and_Dictionaries5\obj\Debug\net8.0\ref\Lists_and_Dictionaries5.dll

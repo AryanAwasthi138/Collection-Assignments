@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Lists_and_Dictionaries3\Lists_and_Dictionaries3\bin\Debug\net8.0\Lists_and_Dictionaries3.exe
+C:\Users\hp\source\repos\Lists_and_Dictionaries3\Lists_and_Dictionaries3\bin\Debug\net8.0\Lists_and_Dictionaries3.deps.json
+C:\Users\hp\source\repos\Lists_and_Dictionaries3\Lists_and_Dictionaries3\bin\Debug\net8.0\Lists_and_Dictionaries3.runtimeconfig.json
+C:\Users\hp\source\repos\Lists_and_Dictionaries3\Lists_and_Dictionaries3\bin\Debug\net8.0\Lists_and_Dictionaries3.dll
+C:\Users\hp\source\repos\Lists_and_Dictionaries3\Lists_and_Dictionaries3\bin\Debug\net8.0\Lists_and_Dictionaries3.pdb
+C:\Users\hp\source\repos\Lists_and_Dictionaries3\Lists_and_Dictionaries3\obj\Debug\net8.0\Lists_and_Dictionaries3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Lists_and_Dictionaries3\Lists_and_Dictionaries3\obj\Debug\net8.0\Lists_and_Dictionaries3.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Lists_and_Dictionaries3\Lists_and_Dictionaries3\obj\Debug\net8.0\Lists_and_Dictionaries3.AssemblyInfo.cs
+C:\Users\hp\source\repos\Lists_and_Dictionaries3\Lists_and_Dictionaries3\obj\Debug\net8.0\Lists_and_Dictionaries3.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Lists_and_Dictionaries3\Lists_and_Dictionaries3\obj\Debug\net8.0\Lists_and_Dictionaries3.dll
+C:\Users\hp\source\repos\Lists_and_Dictionaries3\Lists_and_Dictionaries3\obj\Debug\net8.0\refint\Lists_and_Dictionaries3.dll
+C:\Users\hp\source\repos\Lists_and_Dictionaries3\Lists_and_Dictionaries3\obj\Debug\net8.0\Lists_and_Dictionaries3.pdb
+C:\Users\hp\source\repos\Lists_and_Dictionaries3\Lists_and_Dictionaries3\obj\Debug\net8.0\Lists_and_Dictionaries3.genruntimeconfig.cache
+C:\Users\hp\source\repos\Lists_and_Dictionaries3\Lists_and_Dictionaries3\obj\Debug\net8.0\ref\Lists_and_Dictionaries3.dll

@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Lists_and_Dictionaries6\Lists_and_Dictionaries6\obj\Debug\net8.0\Lists_and_Dictionaries6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Lists_and_Dictionaries6\Lists_and_Dictionaries6\obj\Debug\net8.0\Lists_and_Dictionaries6.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Lists_and_Dictionaries6\Lists_and_Dictionaries6\obj\Debug\net8.0\Lists_and_Dictionaries6.AssemblyInfo.cs
+C:\Users\hp\source\repos\Lists_and_Dictionaries6\Lists_and_Dictionaries6\obj\Debug\net8.0\Lists_and_Dictionaries6.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Lists_and_Dictionaries6\Lists_and_Dictionaries6\bin\Debug\net8.0\Lists_and_Dictionaries6.exe
+C:\Users\hp\source\repos\Lists_and_Dictionaries6\Lists_and_Dictionaries6\bin\Debug\net8.0\Lists_and_Dictionaries6.deps.json
+C:\Users\hp\source\repos\Lists_and_Dictionaries6\Lists_and_Dictionaries6\bin\Debug\net8.0\Lists_and_Dictionaries6.runtimeconfig.json
+C:\Users\hp\source\repos\Lists_and_Dictionaries6\Lists_and_Dictionaries6\bin\Debug\net8.0\Lists_and_Dictionaries6.dll
+C:\Users\hp\source\repos\Lists_and_Dictionaries6\Lists_and_Dictionaries6\bin\Debug\net8.0\Lists_and_Dictionaries6.pdb
+C:\Users\hp\source\repos\Lists_and_Dictionaries6\Lists_and_Dictionaries6\obj\Debug\net8.0\Lists_and_Dictionaries6.dll
+C:\Users\hp\source\repos\Lists_and_Dictionaries6\Lists_and_Dictionaries6\obj\Debug\net8.0\refint\Lists_and_Dictionaries6.dll
+C:\Users\hp\source\repos\Lists_and_Dictionaries6\Lists_and_Dictionaries6\obj\Debug\net8.0\Lists_and_Dictionaries6.pdb
+C:\Users\hp\source\repos\Lists_and_Dictionaries6\Lists_and_Dictionaries6\obj\Debug\net8.0\Lists_and_Dictionaries6.genruntimeconfig.cache
+C:\Users\hp\source\repos\Lists_and_Dictionaries6\Lists_and_Dictionaries6\obj\Debug\net8.0\ref\Lists_and_Dictionaries6.dll
